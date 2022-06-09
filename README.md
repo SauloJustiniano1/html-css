@@ -18,11 +18,11 @@
   </a>
 </div>
 
-<div>
+<div align="center">
   <img src=".github/html-css.jpg">
 </div>
 
-<p>
+<p align="center">
   <strong>Curso de HTML5 e CSS3 do CursoemVideo</strong>
 </p>
 
