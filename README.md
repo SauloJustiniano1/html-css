@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src=".github/html-css.jpg">
+  <img src=".github/html-css.jpeg">
 </div>
 
 <p align="center">
